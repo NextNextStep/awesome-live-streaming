@@ -1,0 +1,23 @@
+{
+  "name": "awesome-live-streaming",
+  "version": "1.0.0",
+  "description": "Awesome live streaming",
+  "main": "index.js",
+  "scripts": {
+    "lint": "awesome-lint README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextNextStep/awesome-live-streaming.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NextNextStep/awesome-live-streamingissues"
+  },
+  "homepage": "https://github.com/NextNextStep/awesome-live-streaming#readme",
+  "devDependencies": {
+    "awesome-lint": "latest",
+    "doctoc": "^2.2.1"
+  }
+}
