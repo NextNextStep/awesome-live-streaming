@@ -18,6 +18,7 @@
 
 - [Audio](#audio)
 - [Broadcasting Software](#broadcasting-software)
+- [Broadcasting Utilities](#broadcasting-utilities)
 - [Broadcasting Libraries](#broadcasting-libraries)
 - [Chat](#chat)
 - [Community](#community)
@@ -54,6 +55,10 @@
 * [Wirecast](https://www.telestream.net/wirecast/) 💰 – macOS + Windows. Live stream production tool with conferencing and remote guest features.
 
 * [vMix](https://www.vmix.com/) 💰 – Windows only. Live stream production software with conferencing and remote guest features.
+
+## Broadcasting Utilities
+
+* [keycastr](https://github.com/keycastr/keycastr) – macOS. Useful for screencasts to visualize keypresses as an overlay.
 
 ## Broadcasting Libraries
 
