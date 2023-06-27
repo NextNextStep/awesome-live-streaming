@@ -48,6 +48,8 @@
 
 ## Broadcasting Software
 
+* [Meld Studio](https://meldstudio.co/) - macOS. Live stream production software with a polished UI and built in video effects.
+
 * [OBS Studio](https://obsproject.com/) - Crossplatform. Free and open source software for video recording and live streaming.
 
 * [Streamlabs Desktop](https://streamlabs.com/) – Crossplatform. A fork of OBS using an electron based interface.
