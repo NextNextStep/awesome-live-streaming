@@ -107,6 +107,8 @@
 
 * [Visuals By Impulse](https://visualsbyimpulse.com/) - Free, paid and custom stream overlay design services.
 
+* [Fikir Overlay](https://github.com/EEspinoso/fikir-overlay) - Free and open source Node.js overlay that lets viewers submit ideas via chat commands (`/idea`, `/fikir`, 30+ languages) on YouTube, Twitch and Kick. Accepted ideas appear as draggable post-it notes on OBS. Includes control panel, dashboard, 10 UI languages, rate limiting and SQLite storage.
+
 ## Hardware
 
 ### Cameras
