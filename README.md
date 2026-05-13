@@ -99,6 +99,8 @@
 
 ## Overlays
 
+* [All-Chat](https://allch.at) - Open-source multi-platform chat overlay that merges Twitch, YouTube, Kick, TikTok, and Discord into a single OBS browser source. Native 7TV/BTTV/FFZ emote support.
+
 * [StreamElements](https://streamelements.com/) - Customizable overlay builder with free themes.
 
 * [Canva](https://www.canva.com) - Canva is a general purpose design tool, but offers easy methods for creating your own overlays.
