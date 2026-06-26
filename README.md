@@ -62,6 +62,8 @@
 
 * [keycastr](https://github.com/keycastr/keycastr) – macOS. Useful for screencasts to visualize keypresses as an overlay.
 
+* [ProTimer](https://srdjankotarlic.github.io/protimer/) – Windows, macOS. Free, open-source stage/countdown timer with a transparent OBS overlay, phone remote, and a backstage view.
+
 ## Broadcasting Libraries
 
 * [FFmpeg](https://ffmpeg.org) – A powerful low-level tool that can be used to broadcast in advanced use-cases.
