@@ -61,6 +61,7 @@
 ## Broadcasting Utilities
 
 * [keycastr](https://github.com/keycastr/keycastr) – macOS. Useful for screencasts to visualize keypresses as an overlay.
+* [OBS Dynamics](https://github.com/Blackoune/OBS-Dynamics) – Windows. Switches OBS scenes automatically based on the running game and what is on screen.
 
 ## Broadcasting Libraries
 
